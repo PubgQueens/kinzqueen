@@ -1,5 +1,5 @@
 {
-  "name": "DaisyX",
+  "name": "Kinzqueen",
   "description": "?",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
-  "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "repository": "https://github.com/PubgQueens/kinzqueen",
+  "website": "https://www.vodiflix.blogspot.com",
+  "success_url": "t.me/Kinzqueen_bot",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
